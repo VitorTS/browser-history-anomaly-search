@@ -5,7 +5,7 @@ numpy==1.18.5
 pandas==1.1.4
 scipy==1.5.4
 tensorflow==2.2.1
-tf-sentencepiece==2.2.0
+tf-sentencepiece
 tensorflow-hub
 voila==0.2.4
 nltk==3.5
